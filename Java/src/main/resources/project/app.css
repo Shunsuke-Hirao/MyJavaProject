@@ -1,0 +1,33 @@
+/*for zelda-fxml*/
+.background-page1{
+    -fx-border-color: #FFCC33;
+    -fx-border-width: 20px;     /* Border width */
+    -fx-border-radius: 5px;    /* Rounded corners */
+    -fx-padding: 5px;          /* inside the border */
+}
+.mainTitle{
+    -fx-color: rgba(255,0,0);
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+.barSelection{
+    -fx-background-color: rgba(0,255,0); /* Light green background */
+}
+
+
+/*for zelda2-fxml*/
+.background-page2{
+    -fx-border-color: #FFCC33;
+    -fx-border-width: 20px;     /* Border width */
+    -fx-border-radius: 5px;    /* Rounded corners */
+    -fx-padding: 5px;          /* inside the border */
+}
+.back-Page{
+    -fx-background-color:lightblue;
+}
+.image-view-border {
+    -fx-border-color: #00FF00; /* Green border */
+    -fx-border-width: 8px;     /* Border width */
+    -fx-border-radius: 5px;    /* Rounded corners */
+    -fx-padding: 5px;          /* inside the border */
+}
